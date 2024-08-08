@@ -1,0 +1,38 @@
+[
+    
+    {
+        "id":2,
+        "name":"Hotel Barcelo",
+        "adress":"Casablanca,Anfa",
+        "category":"Hotel",
+        "image":"./image/pub2.png",
+        "rating":"5"
+    },
+    
+    {
+        "id":4,
+        "name":"Hotel Radisson blu Resort",
+        "adress":"Al Hoceima",
+        "category":"Hotel",
+        "image":"./image/pub7.png",
+        "rating":"5"
+    },
+    
+    {
+        "id":6,
+        "name":"Hotel Farah",
+        "adress":"Rabat",
+        "category":"Hotel",
+        "image":"./image/pub4.png",
+        "rating":"5"
+    },
+    {
+        "id":8,
+        "name":"Hotel Mariott",
+        "adress":"Rabat",
+        "category":"Hotel",
+        "image":"./image/hotel_1.jpg",
+        "rating":"5"
+    }
+   
+]

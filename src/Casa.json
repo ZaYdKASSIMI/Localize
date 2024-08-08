@@ -1,0 +1,673 @@
+[
+
+    {
+        "id":1,
+        "name1":"Bottega",
+        "title1":"Anfa Casablanca",
+        "image1":"/image/1.jpg",
+        "note1":"4",
+        "catigory":"Restrant",
+        "ville":"casablanca"
+
+    },
+    {
+        "id":2,
+        "name1":"8Mile pizza",
+        "title1":" Casablanca",
+        "image1":"/image/2.jpg",
+        "note1":"4",
+        "catigory":"Restrant",
+        "ville":"casablanca"
+
+    },
+    {
+        "id":3,
+        "name1":"The view 360",
+        "title1":"Casablanca , ain sebaa",
+        "image1":"/image/3.jpg",
+        "note1":"4",
+        "catigory":"Restrant",
+        "ville":"casablanca"
+
+    },
+    {
+        "id":4,
+        "name1":"Memonto sf",
+        "title1":"Casablanca , maarif",
+        "image1":"/image/4.jpg",
+        "note1":"4",
+        "catigory":"Restrant",
+        "ville":"casablanca"
+
+    },
+    {
+        "id":5,
+        "name1":"Dmasca Restaurant",
+        "title1":"Anfa Casablanca",
+        "image1":"/image/5.png",
+        "note1":"4",
+        "catigory":"Restrant",
+         "ville":"casablanca"
+
+    },
+    {
+        "id":6,
+        "name1":"Restaurant Umayya",
+        "title1":"Casablanca",
+        "image1":"/image/6.png",
+        "note1":"4",
+        "catigory":"Restrant",
+        "ville":"casablanca"
+    },
+    {
+        "id":7,
+        "name1":"La Sqala",
+        "title1":"Casablanca",
+        "image1":"/image/7.png",
+        "note1":"4",
+        "catigory":"Restrant",
+         "ville":"casablanca"
+
+    },
+    {
+        "id":8,
+        "name1":"Le Cuistot Traditionnel",
+        "title1":"Casablanca",
+        "image1":"/image/8.jpg",
+        "note1":"4",
+        "catigory":"Restrant",
+         "ville":"casablanca"
+
+    },
+    {
+        "id":9,
+        "name1":"Restaurant O'Famous",
+        "title1":"Anfa Casablanca",
+        "image1":"/image/9.jpg",
+        "note1":"4",
+        "catigory":"Restrant",
+         "ville":"casablanca"
+
+    },
+    {
+        "id":10,
+        "name1":"Tiki Tapas",
+        "title1":"Casablanca",
+        "image1":"/image/10.jpg",
+        "note1":"4",
+        "catigory":"Restrant",
+        "ville":"casablanca"
+
+    },
+    {
+        "id":11,
+        "name1":"ÔChef Maârif",
+        "title1":"Casablanca",
+        "image1":"/image/11.jpg",
+        "note1":"4",
+        "catigory":"Restrant",
+        "ville":"casablanca"
+
+    } ,
+    {
+        "id":12,
+        "name1":"Haïstee",
+        "title1":"Casablanca",
+        "image1":"/image/12.jpg",
+        "note1":"4",
+        "catigory":"Restrant",
+        "ville":"casablanca"
+
+    },
+
+    {
+        "id":13,
+        "name1":"Life fit gym",
+        "title1":"Anfa Casablanca",
+        "image1":"/image/gym1.jpg",
+        "note1":"4",
+        "catigory":"Gum",
+        "ville":"casablanca"
+
+    },
+    {
+        "id":14,
+        "name1":"Silva fitness",
+        "title1":" Casablanca",
+        "image1":"/image/16.jpg",
+        "note1":"5",
+        "catigory":"Gum",
+        "ville":"casablanca"
+
+    },
+    {
+        "id":15,
+        "name1":"Soma fit",
+        "title1":"Casablanca , ain sebaa",
+        "image1":"/image/17.jpg",
+        "note1":"4",
+        "catigory":"Gum",
+        "ville":"casablanca"
+
+    },
+    {
+        "id":16,
+        "name1":"The olympic club",
+        "title1":"Casablanca , maarif",
+        "image1":"/image/18.jpg",
+        "note1":"5",
+        "catigory":"Gum",
+        "ville":"casablanca"
+
+    },
+    {
+        "id":17,
+        "name1":"Passage Fitnesst",
+        "title1":"Anfa Casablanca",
+        "image1":"/image/19.png",
+        "note1":"4",
+        "catigory":"Gum",
+        "ville":"casablanca"
+
+    },
+    {
+        "id":18,
+        "name1":"City Club",
+        "title1":"casablanca.Abdelmoumen",
+        "image1":"/image/20.png",
+        "note1":"4",
+        "catigory":"Gum",
+        "ville":"casablanca"
+    },
+    {
+        "id":19,
+        "name1":"BODY FITNESS CLUB",
+        "title1":"Casablanca",
+        "image1":"/image/21.png",
+        "note1":"4",
+        "catigory":"Gum",
+        "ville":"casablanca"
+
+    },
+    {
+        "id":20,
+        "name1":"Punch by Badr Hari",
+        "title1":"Tachfine Casablanca",
+        "image1":"/image/gym2.jpg",
+        "note1":"4",
+        "catigory":"Gum",
+        "ville":"casablanca"
+
+    },
+    {
+        "id":21,
+        "name1":"Spartacus Fight Fitnessi",
+        "title1":"Anfa Casablanc",
+        "image1":"/image/23.png",
+        "note1":"4",
+        "catigory":"Gum",
+        "ville":"casablanca"
+
+    },
+    {
+        "id":22,
+        "name1":"Fitness Park",
+        "title1":"Casablanca",
+        "image1":"/image/24.png",
+        "note1":"4",
+        "catigory":"Gum",
+        "ville":"casablanca"
+
+    },
+    {
+        "id":23,
+        "name1":"City Club",
+        "title1":"casablanca ,ain sebaa",
+        "image1":"/image/25.png",
+        "note1":"4",
+        "catigory":"Gum",
+        "ville":"casablanca"
+
+    } ,
+    {
+        "id":24,
+        "name1":"Boca chica",
+        "title1":"Casablanca",
+        "image1":"/image/gym3.jpg",
+        "note1":"4",
+        "catigory":"Gum",
+        "ville":"casablanca"
+
+    },
+
+    {
+        "id":25,
+        "name1":"L’APERO MARROKI",
+        "title1":"casablanca,Ain diab",
+        "image1":"/image/13.jpg",
+        "note1":"5",
+        "catigory":"Bars",
+        "ville":"casablanca"
+
+    },
+    {
+        "id":26,
+        "name1":"Bar CasArt",
+        "title1":" Casablanca",
+        "image1":"/image/14.png",
+        "note1":"3",
+        "catigory":"Bars",
+        "ville":"casablanca"
+
+    },
+    {
+        "id":27,
+        "name1":"Le Bistrot Titan",
+        "title1":"Casablanca , ain sebaa",
+        "image1":"/image/bar1.png",
+        "note1":"3",
+        "catigory":"Bars",
+        "ville":"casablanca"
+
+    },
+    {
+        "id":28,
+        "name1":"Wynn",
+        "title1":"Casablanca ,anfa",
+        "image1":"/image/bar2.png",
+        "note1":"4",
+        "catigory":"Bars",
+        "ville":"casablanca"
+
+    },
+    {
+        "id":29,
+        "name1":"Bar Atomic",
+        "title1":"Anfa Casablanca",
+        "image1":"/image/bar3.jpg",
+        "note1":"4",
+        "catigory":"Bars",
+        "ville":"casablanca"
+
+    },
+    {
+        "id":30,
+        "name1":"Le 4 Lounge Bar",
+        "title1":"casablanca",
+        "image1":"/image/bar4.jpg",
+        "note1":"4",
+        "catigory":"Bars",
+        "ville":"casablanca"
+    },
+    {
+        "id":31,
+        "name1":"Backstage",
+        "title1":"Casablanca",
+        "image1":"/image/bar5.jpg",
+        "note1":"4",
+        "catigory":"Bars",
+        "ville":"casablanca"
+
+    },
+    {
+        "id":32,
+        "name1":"Rock Feller",
+        "title1":"Tachfine Casablanca",
+        "image1":"/image/bar6.jpg",
+        "note1":"4",
+        "catigory":"Bars",
+        "ville":"casablanca"
+
+    },
+    {
+        "id":33,
+        "name1":"La Paillote",
+        "title1":"Anfa Casablanc",
+        "image1":"/image/bar7.jpg",
+        "note1":"4",
+        "catigory":"Bars",
+        "ville":"casablanca"
+
+    },
+    {
+        "id":34,
+        "name1":"Al Forno",
+        "title1":"Casablanca",
+        "image1":"/image/bar8.jpg",
+        "note1":"4",
+        "catigory":"Bars",
+        "ville":"casablanca"
+
+    },
+    {
+        "id":35,
+        "name1":"Le Trica",
+        "title1":"casablanca",
+        "image1":"/image/bar9.jpg",
+        "note1":"4",
+        "catigory":"Bars",
+        "ville":"casablanca"
+
+    } ,
+    {
+        "id":36,
+        "name1":"Vertigo",
+        "title1":"Casablanca",
+        "image1":"/image/bar10.jpg",
+        "note1":"4",
+        "catigory":"Bars",
+        "ville":"casablanca"
+
+    },
+  
+    {
+        "id":37,
+        "name1":"Hotel BarcelóI",
+        "title1":"Anfa Casablanca",
+        "image1":"/image/27.png",
+        "note1":"5",
+        "catigory":"Hotel",
+        "ville":"casablanca"
+
+    },
+    {
+        "id":38,
+        "name1":"Hotel Farah",
+        "title1":" Casablanca",
+        "image1":"/image/28.png",
+        "note1":"4",
+        "catigory":"Hotel",
+        "ville":"casablanca"
+
+    },
+    {
+        "id":39,
+        "name1":"Four Seasons Hotel",
+        "title1":"Casablanca , ain sebaa",
+        "image1":"/image/29.png",
+        "note1":"5",
+        "catigory":"Hotel",
+        "ville":"casablanca"
+
+    },
+    {
+        "id":40,
+        "name1":"Hôtel Bellerive",
+        "title1":"casablanca,maarif",
+        "image1":"/image/30.png",
+        "note1":"4",
+        "catigory":"Hotel",
+        "ville":"casablanca"
+
+    },
+    {
+        "id":41,
+        "name1":"Mogador",
+        "title1":"Anfa Casablanca",
+        "image1":"/image/hotel1.jpg",
+        "note1":"4",
+        "catigory":"Hotel",
+        "ville":"casablanca"
+
+    },
+    {
+        "id":42,
+        "name1":"Le Casablanca Hotel",
+        "title1":"casablanca",
+        "image1":"/image/32.png",
+        "note1":"4",
+        "catigory":"Hotel",
+        "ville":"casablanca"
+    },
+    {
+        "id":43,
+        "name1":"Hotel Casa Diamond",
+        "title1":"Casablanca",
+        "image1":"/image/hotel2.jpg",
+        "note1":"4",
+        "catigory":"Hotel",
+        "ville":"casablanca"
+
+    },
+    {
+        "id":44,
+        "name1":"Ocean Park Appart ",
+        "title1":"Casablanca",
+        "image1":"/image/33.png",
+        "note1":"4",
+        "catigory":"Hotel",
+        "ville":"casablanca"
+
+    },
+    {
+        "id":45,
+        "name1":"Hilton Garden",
+        "title1":"Anfa Casablanc",
+        "image1":"/image/34.png",
+        "note1":"4",
+        "catigory":"Hotel",
+        "ville":"casablanca"
+
+    },
+    {
+        "id":46,
+        "name1":"Le Lido Thalasso",
+        "title1":"Casablanca",
+        "image1":"/image/35.png",
+        "note1":"4",
+        "catigory":"Hotel",
+        "ville":"casablanca"
+
+    },
+    {
+        "id":47,
+        "name1":"Rick's Café",
+        "title1":"casablanca",
+        "image1":"/image/36.png",
+        "note1":"4",
+        "catigory":"Hotel",
+        "ville":"casablanca"
+
+    } ,
+    {
+        "id":48,
+        "name1":"Boca chica",
+        "title1":"Casablanca",
+        "image1":"/image/hotel3.jpg",
+        "note1":"4",
+        "catigory":"Hotel",
+        "ville":"casablanca"
+
+    }  ,
+    
+    {
+        "id":49,
+        "name1":"stade benjelloun",
+        "title1":" Casablanca",
+        "image1":"/image/38.png",
+        "note1":"3",
+        "catigory":"Stadium",
+        "ville":"casablanca"
+
+    },
+    {
+        "id":50,
+        "name1":"Stade Mohammed-V",
+        "title1":" Casablanca",
+        "image1":"/image/39.png",
+        "note1":"4",
+        "catigory":"Stadium",
+        "ville":"casablanca"
+
+    },
+    {
+        "id":51,
+        "name1":"Stade El Arbi Zaouli",
+        "title1":"Casablanca ",
+        "image1":"/image/40.png",
+        "note1":"3",
+        "catigory":"Stadium",
+        "ville":"casablanca"
+
+    },
+    {
+        "id":52,
+        "name1":"Stade Père Jego",
+        "title1":"casablanca",
+        "image1":"/image/41.png",
+        "note1":"2",
+        "catigory":"Stadium",
+        "ville":"casablanca"
+
+    },
+    {
+        "id":53,
+        "name1":"City Foot 5",
+        "title1":"Casablanca",
+        "image1":"/image/42.png",
+        "note1":"4",
+        "catigory":"Stadium",
+        "ville":"casablanca"
+
+    },
+    {
+        "id":54,
+        "name1":"stade raja club",
+        "title1":"Casablanca",
+        "image1":"/image/43.png",
+        "note1":"4",
+        "catigory":"Stadium",
+        "ville":"casablanca"
+    },
+    {
+        "id":55,
+        "name1":"Academie raja club",
+        "title1":"Casablanca",
+        "image1":"/image/44.png",
+        "note1":"4",
+        "catigory":"Stadium",
+        "ville":"casablanca"
+
+    },
+    
+    {
+        "id":56,
+        "name1":"ARABICA",
+        "title1":"Anfa Casablanca",
+        "image1":"/image/45.png",
+        "note1":"4",
+        "catigory":"Coffe",
+        "ville":"casablanca"
+
+
+    },
+    {
+        "id":56,
+        "name1":"Le Loft",
+        "title1":" Casablanca",
+        "image1":"/image/46.png",
+        "note1":"3",
+        "catigory":"Coffe",
+        "ville":"casablanca"
+
+    },
+    {
+        "id":57,
+        "name1":"Rick's Cafél",
+        "title1":"Casablanca ",
+        "image1":"/image/12.jpg",
+        "note1":"3",
+        "catigory":"Coffe",
+        "ville":"casablanca"
+
+    },
+    {
+        "id":58,
+        "name1":"Boca chica",
+        "title1":"casablanca,",
+        "image1":"/image/6.png",
+        "note1":"4",
+        "catigory":"Coffe",
+        "ville":"casablanca"
+
+    },
+    {
+        "id":59,
+        "name1":"Bert’s Cafe",
+        "title1":"Anfa Casablanca",
+        "image1":"/image/47.png",
+        "note1":"4",
+        "catigory":"Coffe",
+        "ville":"casablanca"
+
+    },
+    {
+        "id":60,
+        "name1":"Café Beverly Ice",
+        "title1":"casablanca",
+        "image1":"/image/48.png",
+        "note1":"4",
+        "catigory":"Coffe",
+        "ville":"casablanca"
+    },
+    {
+        "id":61,
+        "name1":"Café Belle d'Anfa",
+        "title1":"Casablanca",
+        "image1":"/image/49.png",
+        "note1":"4",
+        "catigory":"Coffe",
+        "ville":"casablanca"
+
+    },
+    {
+        "id":62,
+        "name1":"Plaisance Café ",
+        "title1":"Casablanca",
+        "image1":"/image/50.png",
+        "note1":"4",
+        "catigory":"Coffe",
+        "ville":"casablanca"
+
+    },
+    {
+        "id":63,
+        "name1":"Borgonesse café",
+        "title1":"Anfa Casablanc",
+        "image1":"/image/51.png",
+        "note1":"4",
+        "catigory":"Coffe",
+        "ville":"casablanca"
+
+    },
+    {
+        "id":64,
+        "name1":"Dahab Cafe",
+        "title1":"Casablanca",
+        "image1":"/image/52.png",
+        "note1":"4",
+        "catigory":"Coffe",
+        "ville":"casablanca"
+
+    },
+    {
+        "id":65,
+        "name1":"Rick's Café",
+        "title1":"casablanca",
+        "image1":"/image/53.png",
+        "note1":"4",
+        "catigory":"Coffe",
+        "ville":"casablanca"
+
+    } ,
+    {
+        "id":66,
+        "name1":"DAHAB Bourgogne",
+        "title1":"Casablanca",
+        "image1":"/image/54.png",
+        "note1":"4",
+        "catigory":"Coffe",
+        "ville":"casablanca"
+
+    } 
+]
